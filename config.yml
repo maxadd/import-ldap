@@ -1,0 +1,10 @@
+ldap:
+  ip: 10.10.1.10
+  port: 389
+  bind_dn: cn=Admin,dc=example,dc=com
+  bind_password: 123456
+  base_dn: ou=it,dc=example,dc=com
+file:
+  path: /path/to/file.csv
+  type: csv
+  delimiter: ;

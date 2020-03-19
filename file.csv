@@ -1,0 +1,3 @@
+cn,mobile,mail,uid,sn,dn,objectClass
+张三,18123214321,abc@qq.com,zs013233,013233,uid=zs013233,uidObject;simpleSecurityObject;inetOrgPerson
+李四,15423214321,lisi@qq.com,ls012321,012321,uid=ls012321,uidObject;simpleSecurityObject;inetOrgPerson
